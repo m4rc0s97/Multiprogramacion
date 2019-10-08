@@ -2,5 +2,8 @@
 <classpath>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jre1.8.0_181"/>
 	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="Aleatorios.jar"/>
+	<classpathentry kind="lib" path="Mayusculas.jar"/>
+	<classpathentry kind="lib" path="EjercicioAleatorio.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
